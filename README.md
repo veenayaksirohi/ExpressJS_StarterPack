@@ -1,5 +1,3 @@
-Here's a clear and simple **README-style guide** explaining the purpose of each file and folder in your Express.js project structure. This can be added at the root—like `README.md`—to help anyone understand what everything does.
-
 ---
 
 ## Project Structure Overview
@@ -130,16 +128,3 @@ You could include this in your `README.md`:
 ```
 
 ---
-
-Let me know if you’d like help drafting your `app.js`, examples for controllers and routes, or automating scaffolding with a simple script!
-
-[1]: https://www.geeksforgeeks.org/node-js/folder-structure-for-a-node-js-project/?utm_source=chatgpt.com "Folder structure for a Node JS project - GeeksforGeeks"
-[2]: https://www.geeksforgeeks.org/node-js/how-to-structure-my-application-in-express-js/?utm_source=chatgpt.com "How to Structure my Application in Express.js ? - GeeksforGeeks"
-[3]: https://blog.logrocket.com/organizing-express-js-project-structure-better-productivity/?utm_source=chatgpt.com "Organizing your Express.js project structure for better productivity"
-[4]: https://www.codemzy.com/blog/nodejs-file-folder-structure?utm_source=chatgpt.com "A future-proof Node.js express file/folder structure - Codemzy"
-[5]: https://xcoder35.medium.com/a-comprehensive-guide-to-folder-structure-in-node-js-applications-de869c7ed6d5?utm_source=chatgpt.com "A Comprehensive Guide to Folder Structure in Node.js Applications"
-[6]: https://medium.com/%40jayjethava101/node-js-project-structure-best-practices-and-example-for-clean-code-3e1f5530fd3b?utm_source=chatgpt.com "Node.js Project Structure: Best Practices and Example for Clean Code"
-[7]: https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786?utm_source=chatgpt.com "Node.js Everywhere with Environment Variables! | by John Papa"
-[8]: https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/?utm_source=chatgpt.com "Node.js includes built-in support for .env files - Phil Nash"
-[9]: https://dev.to/joodi/learn-env-in-expressjs-for-beginners-effortless-setup-clh?utm_source=chatgpt.com "Learn .env in Express.js for Beginners (Effortless Setup)"
-[10]: https://www.reddit.com/r/node/comments/6cz4jw/having_trouble_understanding_the_benefits_and/?utm_source=chatgpt.com "Having trouble understanding the benefits and point of using an .env ..."
