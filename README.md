@@ -1,5 +1,3 @@
-Here’s a complete updated `README.md` for your project with your **services** folder properly included and everything written cleanly:  
-
 ***
 
 # 🚀 Node.js Express Project
